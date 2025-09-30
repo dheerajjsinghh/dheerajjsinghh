@@ -3,7 +3,7 @@
 ---
 
 ## 🌟 About Me
-- 🎓 3rd Year CSE Student from Haldwani, India  
+- 🎓 4th Year CSE Student at Birla Institute of Applied Sciences, Bhimtal  
 - 📸 Secretary of Dramatics Society | Passionate about showing emotions , either through actions or words.
 - 💡 Problem solver & Hackathon enthusiast  
 - 🚀 Currently exploring **Full Stack Web Development**, **Cloud Computing**, and **Data Analytics**
